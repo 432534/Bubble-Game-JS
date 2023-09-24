@@ -30,3 +30,6 @@ git clone https://github.com/yourusername/bubble-game.git
 - Score Tracking: Your score is displayed in real-time, allowing you to track your progress.
 - Timer: The game includes a timer that adds an element of urgency to the gameplay.
 - Animation: The game uses the GSAP library for smooth animations, making it visually engaging.
+
+## Website Preview
+![image](https://github.com/432534/Bubble-Game-JS/assets/93600599/10accc4c-e4e9-492b-812f-57dc473e6437)
